@@ -1,0 +1,23 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "this is demooo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rushikesh-45/demo11.git"
+  },
+  "author": "we",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rushikesh-45/demo11/issues"
+  },
+  "homepage": "https://github.com/Rushikesh-45/demo11#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
