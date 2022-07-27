@@ -21,4 +21,4 @@ app.get('/aboutus', function(req, res){
 })
 
 app.listen(6969);
-console.log("listen on " + port);
+console.log("listen on 6969" );
